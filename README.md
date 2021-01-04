@@ -2,7 +2,7 @@
 
 This is a simple todo app with simple color palette and search function.  The whole app is built with Realm database as backend and Chameleon color framework for the main theme.
 
-<img src="media/demo_original.gif" alt="demo" style="width:200px;"/>
+<img src="media/demo_original.gif" width="220" height="478">
 
 Technologies Involved:
 
